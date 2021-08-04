@@ -2903,3 +2903,4 @@ static const struct pin_index pins[] =
 
 
 #endif
+#endif

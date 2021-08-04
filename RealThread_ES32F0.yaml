@@ -1,6 +1,6 @@
 ---
 vendor: RealThread
-dvendor: Essemi
+dvendor: essemi
 name: ES32F0
 version: 0.0.1
 yaml_version: 1
