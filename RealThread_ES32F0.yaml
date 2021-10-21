@@ -43,7 +43,7 @@ series:
           files: 
           - libraries\CMSIS\Device\EastSoft\ES32F065x\Include\es32f065x.h
           - libraries\CMSIS\Include
-          - libraries\CMSIS\Device\EastSoft\ES32F065x\Startup\gcc\startup_es32f065x.S
+          - libraries\CMSIS\Device\EastSoft\ES32F065x\Startup\gcc\startup_es32f065x.s
         armcc:
           entry_point: none
           link_script: none
@@ -81,7 +81,7 @@ series:
           files: 
           - libraries\CMSIS\Device\EastSoft\ES32F065x\Include\es32f065x.h
           - libraries\CMSIS\Include
-          - libraries\CMSIS\Device\EastSoft\ES32F065x\Startup\gcc\startup_es32f065x.S
+          - libraries\CMSIS\Device\EastSoft\ES32F065x\Startup\gcc\startup_es32f065x.s
         armcc:
           entry_point: none
           link_script: none
